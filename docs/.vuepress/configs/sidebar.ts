@@ -10,8 +10,9 @@ export const sideBarConfig: SidebarConfig = [
     children: ['/README.md'],
   },
     {
-    text: '测试345',
-    children: ['/ce-shi-8.md'],
+    text: '测试345',children: [
+    text: '3344',children: ['/ce-shi-8.md']
+    ],
   },
   {
     text: '测试1234',
