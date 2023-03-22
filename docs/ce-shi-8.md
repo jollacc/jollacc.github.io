@@ -31,7 +31,7 @@
 		* 命令hash：hash
 
 
-![Absolute FreeBSD, 3rd Edition: The Complete Guide to FreeBS#基本正则表达式元字符：](./ce-shi-68888.md)
+![ce-shi-68888#基本正则表达式元字符：]
 
 ## bash的基础特性（3）
 
