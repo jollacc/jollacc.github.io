@@ -15,6 +15,6 @@ export const sideBarConfig: SidebarConfig = [
   },
   {
     text: '测试1234',
-    children: ['/ce-shi-68888.md'],
+    children: ['../文档/ce-shi-68888.md'],
   },
 ];
