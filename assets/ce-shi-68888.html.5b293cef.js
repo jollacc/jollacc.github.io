@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as s}from"./app.14bebcff.js";const o={},r=e("h1",{id:"测试68888",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#测试68888","aria-hidden":"true"},"#"),s(" 测试68888")],-1),n=[r];function _(d,i){return a(),c("div",null,n)}const l=t(o,[["render",_],["__file","ce-shi-68888.html.vue"]]);export{l as default};
