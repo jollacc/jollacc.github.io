@@ -6,7 +6,7 @@ import type {SidebarConfig} from '@vuepress/theme-default';
 
 export const sideBarConfig: SidebarConfig = [
   {
-    text: '简体英语',
+    text: '个人文档',
     children: [
 	       '/README.md',
 	       '/ce-shi-8.md',
