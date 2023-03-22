@@ -30,6 +30,9 @@
 		* 快捷键：Ctrl+{a,e,l,c,u,k}
 		* 命令hash：hash
 
+
+![Absolute FreeBSD, 3rd Edition: The Complete Guide to FreeBS#基本正则表达式元字符：](./ce-shi-68888.md)
+
 ## bash的基础特性（3）
 
 ### 1、提供了编程环境：
